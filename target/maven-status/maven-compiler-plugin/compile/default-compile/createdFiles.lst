@@ -1,0 +1,8 @@
+demo\namegame\app\service\GetProfilesService$1.class
+demo\namegame\app\domain\Image.class
+demo\namegame\app\domain\Person.class
+demo\namegame\app\security\SpringSecurityConfiguration.class
+demo\namegame\app\service\GetProfilesService.class
+demo\namegame\app\controller\AppController.class
+demo\namegame\app\domain\SocialLink.class
+demo\namegame\app\NameApiApp.class
