@@ -1,6 +1,6 @@
 # WillowTree Name Game
 
-Aimed ate helping new employees in an organization learn names of co-workers.
+Aimed at helping new employees in an organization learn names of co-workers.
 
 Features:
 
